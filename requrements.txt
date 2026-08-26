@@ -1,0 +1,6 @@
+pandas
+duckudb
+scikit-learn
+matplolib
+seaborn
+jupyter

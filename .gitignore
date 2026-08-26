@@ -1,0 +1,15 @@
+# Data files
+*.parquet
+*.csv
+*.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+__pycache__/
+
+# Mac OS files
+.DS_Store
